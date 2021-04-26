@@ -5,8 +5,8 @@ ISTILAH PADA GIT/GIT HUB
 -hash = penanda unik pada sebuah commit
 -checkout = berpindah ke sebuah commit
 -branch = cabang bebas dari sebuah commit
--merge : menggabungkan branch
--remote : sumber yang memiliki repo
--clone : mengambil repo dari remote
--push : mengirimkan commit ke repo
--pull : mengambil commit dari repo
+-merge = menggabungkan branch
+-remote = sumber yang memiliki repo
+-clone = mengambil repo dari remote
+-push = mengirimkan commit ke repo
+-pull = mengambil commit dari repo
