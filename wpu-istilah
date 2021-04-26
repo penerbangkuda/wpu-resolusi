@@ -1,6 +1,6 @@
 ISTILAH PADA GIT/GIT HUB
 
--repo = folder project kita
+-repo : folder project kita
 -commit = rekaman / snapshot dari repo kita
 -hash = penanda unik pada sebuah commit
 -checkout = berpindah ke sebuah commit
